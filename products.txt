@@ -1,0 +1,240 @@
+ATIV Book 9
+Samsung
+708.99
+12.2
+3.8
+256
+10
+
+Aspire E5
+Acer
+769.99
+15.6
+5.27
+256
+9
+
+Blade Pro
+Razer
+1999.99
+17.3
+6.8
+2000
+6
+
+Book One
+Porsche Design
+1649.99
+13.3
+3.5
+512
+3
+
+Chromebook CB5
+Acer
+211.99
+11.6
+2.76
+32
+0
+
+Chromebook Pro
+Samsung
+429.99
+12.3
+2.38
+32
+7
+
+Elitebook Folio
+HP
+294.99
+14
+3.6
+320
+6
+
+Envy x360
+HP
+1299.99
+15.6
+4.79
+1500
+9
+
+GS65 Stealth
+MSI
+1899
+15.6
+4.14
+512
+2
+
+Ideapad 110s
+Lenovo
+209.99
+11.6
+3.53
+32
+4
+
+Inspiron 15 7000
+Dell
+1029.99
+15.6
+5.84
+256
+0
+
+Latitude E5400
+Dell
+129.99
+14.1
+4.5
+160
+10
+
+MacAir
+Apple
+2312
+12
+1.23
+128
+6
+
+MacBook
+Apple
+1249.99
+12
+3.4
+256
+2
+
+MateBook X Pro
+Huawei
+1279
+13.9
+2.93
+512
+7
+
+Notebook 9
+Samsung
+1299.99
+13.3
+2.19
+256
+0
+
+Pavilion
+HP
+566.99
+14
+3.63
+1000
+2
+
+Pixelbook
+Google
+1199.99
+12.3
+2.4
+256
+10
+
+Predator Helios 300
+Acer
+1149.99
+15.6
+5.95
+128
+0
+
+ProBook 450 G5
+HP
+1349.99
+15.6
+4.64
+2500
+0
+
+S
+Vaio
+1999
+13.3
+2.34
+1024
+7
+
+Spectre x360
+HP
+843.99
+13.3
+2.77
+256
+10
+
+Stream 14
+HP
+214.99
+14
+3.17
+32
+4
+
+Surface Book
+Microsoft
+854.99
+13.5
+3.48
+256
+8
+
+Tecra A50
+Toshiba
+949.99
+15.6
+4.9
+256
+1
+
+Vivobook
+Asus
+799.99
+15.6
+5.1
+1000
+3
+
+XPS 13
+Dell
+799.99
+13.3
+2.7
+256
+2
+
+Yoga Book
+Lenovo
+273.99
+10.1
+1.52
+128
+3
+
+ZBook G4
+HP
+1799.99
+10.8
+4.9
+512
+1
+
+Zenbook
+Asus
+869.99
+13.3
+3.2
+256
+10
+
